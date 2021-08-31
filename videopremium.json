@@ -1,0 +1,220 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "7Dk7B-2BXbRA1qCaHgWGR3hq0zY",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zH1gbDxgmiKEVXBwXVnjJiVJZmI",
+            "id": "UEx3MWFqdzZjOFBOZlFRMkdpc3VZR2JQdm1xRzZmcllQdy41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2021-08-31T03:29:43Z",
+                "channelId": "",
+                "title": "Anh Bảy Nhớ Mẹ Phương Mỹ Chi",
+                "description": "Bài hát: Anh bảy nhớ mẹ\nCa sĩ : Phương Mỹ Chi\n(c) Phuong My Chi Entertaiment Co.,Ltd",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/toRJrRqslZ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/toRJrRqslZ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/toRJrRqslZ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "",
+                "playlistId": "PLw1ajw6c8PNfQQ2GisuYGbPvmqG6frYPw",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "toRJrRqslZ0"
+                },
+                "videoOwnerChannelTitle": "Phuong My Chi Music",
+                "videoOwnerChannelId": "UCFdQb_EhOu96lRb8B8fMDbw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "i-UWus0oWCAZ5aq_IwitGT6SNp4",
+            "id": "UEx3MWFqdzZjOFBOZlFRMkdpc3VZR2JQdm1xRzZmcllQdy4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2021-08-31T03:34:33Z",
+                "channelId": "",
+                "title": "Vui Sống Mỗi Ngày VTV3 | Khách Mời : Phương Mỹ Chi",
+                "description": "Phương Mỹ Chi - Vui Sống Mỗi Ngày VTV3\nChuyên mục : Phương Mỹ Chi \"vẫn yêu những khúc dân ca\" \nChương trình Vui sống mỗi ngày do chuthi phối hợp cùng Đài Truyền Hình Việt Nam sản xuất được phát sóng trên kênh VTV3 với sự tham dự của khách mời : Phương Mỹ Chi và MC Lương Mạnh Hải\n(c) 2020 Phuong My Chi Entertainment",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J4ciXlRvX9A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J4ciXlRvX9A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J4ciXlRvX9A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/J4ciXlRvX9A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/J4ciXlRvX9A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "",
+                "playlistId": "PLw1ajw6c8PNfQQ2GisuYGbPvmqG6frYPw",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "J4ciXlRvX9A"
+                },
+                "videoOwnerChannelTitle": "Phuong My Chi Music",
+                "videoOwnerChannelId": "UCFdQb_EhOu96lRb8B8fMDbw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cAXx4B6Zd_KEAypI4WAYrkF7WGY",
+            "id": "UEx3MWFqdzZjOFBOZlFRMkdpc3VZR2JQdm1xRzZmcllQdy4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2021-08-31T03:36:14Z",
+                "channelId": "",
+                "title": "Khúc Ca Ngày Mùa - Phương Mỹ Chi  | Official",
+                "description": "Bài hát : Khúc ca ngày mùa\nCa sĩ : Phương mỹ Chi",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IfhQDm6jezA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IfhQDm6jezA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IfhQDm6jezA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IfhQDm6jezA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "",
+                "playlistId": "PLw1ajw6c8PNfQQ2GisuYGbPvmqG6frYPw",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IfhQDm6jezA"
+                },
+                "videoOwnerChannelTitle": "Phuong My Chi Music",
+                "videoOwnerChannelId": "UCFdQb_EhOu96lRb8B8fMDbw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "RE9EN0czTooNy8JvcxmOkkUoPAg",
+            "id": "UEx3MWFqdzZjOFBOZlFRMkdpc3VZR2JQdm1xRzZmcllQdy41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2021-08-31T03:41:05Z",
+                "channelId": "",
+                "title": "Nỗi Lòng Con Yêu - Phương Mỹ Chi",
+                "description": "Bài hát: Nỗi lòng con yêu \nCa si : Phương Mỹ Chi",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/25kVJSMIyQc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/25kVJSMIyQc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/25kVJSMIyQc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/25kVJSMIyQc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "",
+                "playlistId": "PLw1ajw6c8PNfQQ2GisuYGbPvmqG6frYPw",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "25kVJSMIyQc"
+                },
+                "videoOwnerChannelTitle": "Phuong My Chi Music",
+                "videoOwnerChannelId": "UCFdQb_EhOu96lRb8B8fMDbw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1Nwq8C6ED6m2-dk0ugkRMVWHv5A",
+            "id": "UEx3MWFqdzZjOFBOZlFRMkdpc3VZR2JQdm1xRzZmcllQdy4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2021-08-31T03:52:06Z",
+                "channelId": "",
+                "title": "Gạo Trắng Trăng Thanh - Phương Mỹ Chi [Official]",
+                "description": "Gạo Trắng Trăng Thanh - Phương Mỹ Chi [Official]",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BAtbwPcIGrY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BAtbwPcIGrY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BAtbwPcIGrY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BAtbwPcIGrY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "",
+                "playlistId": "PLw1ajw6c8PNfQQ2GisuYGbPvmqG6frYPw",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BAtbwPcIGrY"
+                },
+                "videoOwnerChannelTitle": "Phuong My Chi Music",
+                "videoOwnerChannelId": "UCFdQb_EhOu96lRb8B8fMDbw"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 5,
+        "resultsPerPage": 10
+    }
+}
