@@ -1,0 +1,95 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Phương Mỹ Chi là ai ? , Tiểu sử về Phương Mỹ Chi ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Phương Mỹ Chi là ca sĩ  nổi tiếng hát nhạc dân ca, trữ tình  tại Việt Nam, Mỹ Chi nổi tiếng từ khi bắt đầu tham gia chương trình giọng hát việt nhí 2013 mùa đầu tiên,với các ca khúc như : Quê em mùa nước lũ, Áo mới cà mau, Lòng mẹ, Đất phương nam vv"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Phương Mỹ Chi ngày sinh là khi nào ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Phương Mỹ Chi sinh ngày 13/01/2003"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Phương Mỹ Chi quê ở đâu?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Phương Mỹ Chi quê ở Thành Phố Hồ Chí Minh , Mỹ Chi sinh ra và lớn lên tại : 118/20 Mạc Vân, phường 12, Quận 8, Thành Phố Hồ Chí Minh, Việt Nam"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Phương Mỹ Chi có người yêu chưa?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Phương Mỹ Chi  hiện giờ đang yêu tất cả mọi người ^^"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Ba của Phương Mỹ Chi là ai ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Ba của Phương Mỹ Chi là : Phương Bình Quế"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Mẹ của Phương Mỹ Chi là ai?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Mẹ của Phương Mỹ Chi là : Võ Thị Huỳnh Thư"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Chị gái Phương Mỹ Chi là ai ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Chị gái của Phương Mỹ Chi là : Phương Mỹ Quyên"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Số điện thoại của Phương Mỹ Chi là gì?:",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Số điện thoại của Phương Mỹ Chi là :0*******12 , các thông tin khác theo yêu cầu bảo mật của chúng tôi"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Facebook của Phương Mỹ Chi là gì?:",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Facebook Fanpage : https://fb.me/phuongmychi"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Phương Mỹ Chi chiều cao là bao nhiêu ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Phương Mỹ Chi chiều cao là  1m57,6"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Phương Mỹ Chi cân nặng là bao nhiêu ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Phương Mỹ Chi cân nặng là 49kg"
+        }
+      }
+    ]
+  }
+  
