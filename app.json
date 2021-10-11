@@ -1,65 +1,67 @@
-{
-    "@context": "https://schema.org",
-    "@type": "SoftwareApplication",
-    "name": "Phuong My Chi Music",
-    "permissions": "Wifi,3G,Internet,Cookie",
-    "softwareVersion": "3.5.0",
-    "description":
-      "Phuong My Chi Music là website ứng dụng nghe nhạc, xem video, tiểu sử ca sĩ Phương Mỹ Chi, Ứng dụng hỗ trợ tất cả các nền tảng Android, IOS, Window và Java",
-    "keywords":
-      "Phuong My Chi Music, Thông tin ca sĩ Phương Mỹ Chi, Tiểu sử ca sĩ Phương Mỹ Chi,nghe nhạc dân ca,bolero Phương Mỹ Chi,google.com.vn, google.com ",
-    "operatingSystem": "ANDROID,IOS,Window",
-    "applicationCategory": "SoftwareApplication",
-    "accessibilityAPI": "Youtube API, Tikok API,Google Cloud",
-    "featureList": "Xem thông tin ,Tiểu sử, Video, Nghe nhạc ca sĩ Phương Mỹ Chi",
-    "contentRating": "Rated for 3+",
-    "image": "https://i.imgur.com/xO6dthg.jpg",
-    "screenshot": {
-      "@type": "ImageObject",
-      "contentUrl": "https://i.imgur.com/TecbB6Z.jpg",
-      "license": "https://phuongmychi.vn",
-      "acquireLicensePage": "https://facebook.com/phuongmychi.ent"
-    },
-    "copyrightHolder": {
-      "@type": "Organization",
-      "name": "Phuong My Chi Entertainment Company Limited",
-      "url": "https://phuongmychi.vn"
-    },
-    "copyrightYear": "2014",
-    "sponsor": {
-      "@type": "Organization",
-      "name": "Facebook Inc",
-      "url": "https://reactjs.org"
-    },
-    "author": {
-      "@type": "Organization",
-      "name": "Phuong My Chi Entertainment Limited Company",
-      "url": "https://phuongmychi.vn",
-      "sameAs": [
-        "https://twitter.com/lovephuongmychi",
-        "https://www.facebook.com/phuongmychi",
-        "https://facebook.com/phuongmychiofficialpage",
-        "https://instagram.com/phuongmychi",
-        "http://youtube.com/phuongmychiofficial",
-        "https://youtube.com/user/c7pmc",
-        "https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF"
-      ],
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "118/20 Mạc Vân, Phường 12, Quận 8",
-        "addressRegion": "HO CHI MINH CITY",
-        "postalCode": "70000",
-        "addressCountry": "VN"
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Phuong My Chi Music",
+        "permissions": "Wifi,3G,Internet,Cookie",
+        "softwareVersion": "3.5.0",
+        "description":
+          "Phuong My Chi Music là website ứng dụng nghe nhạc, xem video, tiểu sử ca sĩ Phương Mỹ Chi, Ứng dụng hỗ trợ tất cả các nền tảng Android, IOS, Window và Java",
+        "keywords":
+          "Phuong My Chi Music, Thông tin ca sĩ Phương Mỹ Chi, Tiểu sử ca sĩ Phương Mỹ Chi,nghe nhạc dân ca,bolero Phương Mỹ Chi,google.com.vn, google.com ",
+        "operatingSystem": "ANDROID,IOS,Window",
+        "applicationCategory": "SoftwareApplication",
+        "accessibilityAPI": "Youtube API, Tikok API,Google Cloud",
+        "featureList": "Xem thông tin ,Tiểu sử, Video, Nghe nhạc ca sĩ Phương Mỹ Chi",
+        "contentRating": "Rated for 3+",
+        "image": "https://i.imgur.com/xO6dthg.jpg",
+        "screenshot": {
+          "@type": "ImageObject",
+          "contentUrl": "https://i.imgur.com/TecbB6Z.jpg",
+          "license": "https://phuongmychi.vn",
+          "acquireLicensePage": "https://facebook.com/phuongmychi.ent"
+        },
+        "copyrightHolder": {
+          "@type": "Organization",
+          "name": "Phuong My Chi Entertainment Company Limited",
+          "url": "https://phuongmychi.vn"
+        },
+        "copyrightYear": "2014",
+        "sponsor": {
+          "@type": "Organization",
+          "name": "Facebook Inc",
+          "url": "https://reactjs.org"
+        },
+        "author": {
+          "@type": "Organization",
+          "name": "Phuong My Chi Entertainment Limited Company",
+          "url": "https://phuongmychi.vn",
+          "sameAs": [
+            "https://twitter.com/lovephuongmychi",
+            "https://www.facebook.com/phuongmychi",
+            "https://facebook.com/phuongmychiofficialpage",
+            "https://instagram.com/phuongmychi",
+            "http://youtube.com/phuongmychiofficial",
+            "https://youtube.com/user/c7pmc",
+            "https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "118/20 Mạc Vân, Phường 12, Quận 8",
+            "addressRegion": "HO CHI MINH CITY",
+            "postalCode": "70000",
+            "addressCountry": "VN"
+          }
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "8864"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "0.00",
+          "priceCurrency": "USD"
+        }
       }
-    },
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "4.6",
-      "ratingCount": "8864"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "USD"
-    }
-  }
+]
