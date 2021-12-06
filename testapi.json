@@ -1,0 +1,71 @@
+{
+  "2021-12-02": [],
+  "2021-12-03": [],
+  "2021-12-04": [
+    {
+      "id": 1643264,
+      "student": {
+        "id": 217238,
+        "firstName": "Thắng Test 2",
+        "lastName": "Vu",
+        "name": "Thắng Test 2 Vu",
+        "email": "thangvnv0608@gmail.com",
+        "status": 2,
+        "gender": 1,
+        "formatBirthDay": "2021-08-06",
+        "phone": "0983238571",
+        "new_phone": 983238571,
+        "avatarUrl": "https://static.antoree.com/avatar.png",
+        "avatarUrlThumb": "https://static.antoree.com/avatar.png",
+        "type": 1,
+        "parentUserId": 217238,
+        "nationality": null,
+        "shown_name": "Thắng Test 2 Vu",
+        "url_avatar": "https://static.antoree.com/avatar.png",
+        "url_avatar_thumb": "https://static.antoree.com/avatar.png"
+      },
+      "teacher": {
+        "id": 198907,
+        "firstName": "Jasmine",
+        "lastName": "Nguyen",
+        "name": "Jasmine Nguyen",
+        "email": "meet.jasminehan@gmail.com",
+        "status": null,
+        "gender": 2,
+        "formatBirthDay": "2000-06-02",
+        "phone": "775717778",
+        "new_phone": null,
+        "avatarUrl": "https://antoree-v1-prod-files.s3.ap-southeast-1.amazonaws.com/user_198907/profile_pictures/img_1633350452_615af334bb6524.12017655.jpg",
+        "avatarUrlThumb": "https://antoree-v1-prod-files.s3.ap-southeast-1.amazonaws.com/user_198907/profile_pictures/img_1633350452_615af334bb6524.12017655.jpg",
+        "type": null,
+        "parentUserId": null,
+        "nationality": "Vietnam ",
+        "shown_name": "Jasmine Nguyen",
+        "url_avatar": "https://antoree-v1-prod-files.s3.ap-southeast-1.amazonaws.com/user_198907/profile_pictures/img_1633350452_615af334bb6524.12017655.jpg",
+        "url_avatar_thumb": "https://antoree-v1-prod-files.s3.ap-southeast-1.amazonaws.com/user_198907/profile_pictures/img_1633350452_615af334bb6524.12017655.jpg"
+      },
+      "type": 1,
+      "scheduledStatus": 2,
+      "happenedStatus": 4,
+      "shortDateOccurred_at": "2021-12-04",
+      "occurredAt": "2021-12-04 03:15:00",
+      "shortRepresentingDuration": "20ph",
+      "shortTimeStartedAt": "03:15",
+      "shortTimeEndedAt": "03:35",
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      },
+      "videoUrl": [],
+      "title": "",
+      "occurredWeek": 1,
+      "status": 0,
+      "formatDuration": "0.3333",
+      "test": null
+    }
+  ],
+  "2021-12-05": [],
+  "2021-12-06": [],
+  "2021-12-07": [],
+  "2021-12-08": []
+}
