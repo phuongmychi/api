@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Phuong My Chi Sport",
+  "permissions": "Wifi,3G,Internet,Cookie",
+  "softwareVersion": "3.5.0",
+  "description": "Phuong My Chi Sport là Website Xem HightLight Bóng Đá FIFA,UEFA, Ngoại Hạng Anh,AFF Suzuki Trọn Vẹn Nhất, Ứng dụng hỗ trợ tất cả các nền tảng Android, IOS, Window và Java",
+  "keywords": "Phuong My Chi Sport, HightLight ngoại hạng anh, HightLight UEFA,K+, K Sport, FPT Bóng Đá, google.com ",
+  "operatingSystem": "ANDROID,IOS,Window",
+  "applicationCategory": "SoftwareApplication",
+  "accessibilityAPI": "Youtube API, Tikok API,Google Cloud",
+  "featureList": "HightLight Bóng Đá FIFA,UEFA, Ngoại Hạng Anh,AFF Suzuki Trọn Vẹn Nhất",
+  "contentRating": "Rated for 3+",
+  "image": "https://i.imgur.com/xO6dthg.jpg",
+  "screenshot": {
+    "@type": "ImageObject",
+    "contentUrl": "https://i.imgur.com/TecbB6Z.jpg",
+    "license": "https://phuongmychi.vn",
+    "acquireLicensePage": "https://facebook.com/phuongmychi.ent"
+  },
+  "copyrightHolder": {
+    "@type": "Organization",
+    "name": "Phuong My Chi Entertainment Company Limited",
+    "url": "https://sport.phuongmychi.vn"
+  },
+  "copyrightYear": "2014",
+  "sponsor": {
+    "@type": "Organization",
+    "name": "Facebook Inc",
+    "url": "https://reactjs.org"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Phuong My Chi Entertainment Company Limited ",
+    "url": "https://sport.phuongmychi.vn",
+    "sameAs": [
+      "https://twitter.com/lovephuongmychi",
+      "https://www.facebook.com/phuongmychi",
+      "https://facebook.com/phuongmychiofficialpage",
+      "https://instagram.com/phuongmychi",
+      "http://youtube.com/phuongmychiofficial",
+      "https://youtube.com/user/c7pmc",
+      "https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF"
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "182 Le Dai Hanh Street, Ward 15, District 11, Ho Chi Minh City",
+      "addressRegion": "HO CHI MINH CITY",
+      "postalCode": "70000",
+      "addressCountry": "VN"
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "8374"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
