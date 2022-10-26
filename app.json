@@ -27,6 +27,12 @@
           "url": "https://phuongmychi.vn"
         },
         "copyrightYear": "2014",
+        "creditText": "Phuong My Chi",
+      "creator": {
+        "@type": "Person",
+        "name": "Phuong My Chi"
+       },
+        "copyrightNotice": "Phuong My Chi Entertainment Company Limited",
         "sponsor": {
           "@type": "Organization",
           "name": "Facebook Inc",
