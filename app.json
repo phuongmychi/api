@@ -19,14 +19,22 @@
           "@type": "ImageObject",
           "contentUrl": "https://i.imgur.com/TecbB6Z.jpg",
           "license": "https://phuongmychi.vn",
-          "acquireLicensePage": "https://facebook.com/phuongmychi.ent"
-        },
+          "acquireLicensePage": "https://facebook.com/phuongmychi.ent",
+           "creditText": "Phuong My Chi",
+      "creator": {
+        "@type": "Person",
+        "name": "Phuong My Chi"
+       },
+        "copyrightNotice": "Phuong My Chi Entertainment Company Limited",
         "copyrightHolder": {
           "@type": "Organization",
           "name": "Phuong My Chi Entertainment Company Limited",
           "url": "https://phuongmychi.vn"
+        }
         },
+     
         "copyrightYear": "2014",
+    
         "sponsor": {
           "@type": "Organization",
           "name": "Facebook Inc",
