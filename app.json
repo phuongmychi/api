@@ -6,9 +6,9 @@
         "permissions": "Wifi,3G,Internet,Cookie",
         "softwareVersion": "3.5.0",
         "description":
-          "Phuong My Chi Music is a web app to listen to music, watch videos online without advertising for free about singer Phuong My Chi, and millions of songs, video globally. The application supports all Android, IOS, and Windows platforms. and Java",
+          "Phuong My Chi Music là web app nghe nhạc, xem video trực tuyến không quảng cáo miễn phí về ca sĩ Phương Mỹ Chi và hàng triệu bài hát, video trên toàn cầu. Ứng dụng hỗ trợ tất cả các nền tảng Android, iOS và Windows. và Java",
         "keywords":
-          "Phuong My Chi Music, Nghe nhạc Phương Mỹ Chi, Xem MV Phương Mỹ Chi, Xem Youtube  trực tuyến không quảng cáo, Nghe Nhạc không quảng cáo miễn phí,",
+          "Phuong My Chi Music, Nghe nhạc Phương Mỹ Chi, Xem MV Phương Mỹ Chi, Xem Youtube  trực tuyến không quảng cáo, Nghe Nhạc không quảng cáo miễn phí,Tiểu sử ca sĩ Phương Mỹ Chi",
         "operatingSystem": "ANDROID,IOS,Window",
         "applicationCategory": "SoftwareApplication",
         "accessibilityAPI": "Youtube API, Tikok API,Google Cloud",
